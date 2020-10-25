@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">powerpoint control</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_remote">FullscreenActivity</string>
+    <string name="title_activity_hand_free">FullscreenActivity</string>
+</resources>
